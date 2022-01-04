@@ -4,7 +4,7 @@ Space Invaders made in Unity
 ## Important
 ### Play in 16:9 aspect ratio
 
-Levels can be made using an scriptable object
+Levels can be made using an scriptable object and injected into the gameplay
 
 ![image](https://user-images.githubusercontent.com/97065356/148114910-fede67fc-ffc0-4b3d-a20e-7bdfb81515b0.png)
 
